@@ -1,6 +1,6 @@
 var http = require('http');
 var path = require('path');
-var fs = require('fd');
+var fs = require('fs');
 
 var hostname = 'localhost';
 var port = 3000;
